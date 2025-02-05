@@ -1,11 +1,5 @@
 # MIPS ASSEMBLE SIMULATER #
 
-# TEAM MEMBERS
-Dilanur Aygün 212010020111
-Zeynep Tuba Başar 212010020059
-Berranur Özyalvaç 212010020049
-Firdevs Sürmegözlüer 222010020041
-
 # OVERVIEW
 This project implements a simulator for a subset of the MIPS 32-bit architecture. The goal is to provide an educational tool for understanding computer architecture, instruction set architecture, and system simulation. The simulator allows you to execute basic MIPS instructions and observe how the processor handles them.
 
